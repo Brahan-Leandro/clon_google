@@ -4,10 +4,38 @@ body
 	font-family: arial,sans-serif;
 }
 
+header nav
+{
+	
+}
+
 header nav ol
 {
 	list-style: none;
 	display: flex;	
+	font-size: 13px;
+	justify-content: flex-end;
+}
+header nav ol li
+{
+	margin-right: 10px;
+}
+
+.hero
+{
+	margin-top: 10%;
+	text-align: center;
+}
+
+.container_hero
+{
+
+}
+
+.container_hero #email
+{
+	display: block;
+	margin-left: 55%;
 }
 
 
