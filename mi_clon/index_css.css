@@ -37,20 +37,39 @@ header nav ol li a
 
 .hero
 {
-	margin-top: 10%;
+	margin-top: 8%;
 	text-align: center;
 }
 
-.container_hero
+.hero .container_hero img
 {
-
+	width: 20%;
 }
 
-.container_hero #email
+.container_hero .container_input
 {
-	display: block;
-	text-align: 
+	margin: 1% 0% 2% 0%;
+}
 
+.container_hero .container_input input
+{
+	width: 40%;
+	padding: 0.9% 2%;
+	border-radius: 20px;
+	border: 1px solid RGB(214, 196, 196);
+}
+
+.container_hero h3
+{
+	font-size: small;
+	font-weight: 200;
+	line-height: 28px;
+	color: #222;
+}
+
+.container_hero h3 a
+{
+	text-decoration: none;
 }
 
 
