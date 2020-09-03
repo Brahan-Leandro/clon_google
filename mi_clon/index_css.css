@@ -28,6 +28,13 @@ header nav ol li a
 	color: black;
 }
 
+.icono
+{
+	width: 40px;
+	height: 40px;
+	font-size: 20px;
+}
+
 .hero
 {
 	margin-top: 10%;
