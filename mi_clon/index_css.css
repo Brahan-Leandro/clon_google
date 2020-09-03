@@ -15,10 +15,17 @@ header nav ol
 	display: flex;	
 	font-size: 13px;
 	justify-content: flex-end;
+	margin: 25px 15px 0px 0px;
 }
 header nav ol li
 {
 	margin-right: 10px;
+}
+
+header nav ol li a
+{
+	text-decoration: none;
+	color: black;
 }
 
 .hero
